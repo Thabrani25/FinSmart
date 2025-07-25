@@ -194,7 +194,7 @@ button.submit-btn:hover {
 
   <header>
     <div class="logo-app">
-     <img src="logo/sss.jpg" alt="Logo FinSmart" class="logo-app" />
+     <img src="sss.jpg" alt="Logo FinSmart" class="logo-app" />
         <span><h3>FinSmart</h3></span>
     </div>
     <div class="user-photo">
