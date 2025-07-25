@@ -194,7 +194,7 @@ button.submit-btn:hover {
 
   <header>
     <div class="logo-app">
-      <img src="[https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Logo](https://drive.google.com/file/d/1QsoEZ2HADS05SzwzVU3ioiexhIxHx3l2/view?usp=sharing)">
+    <img src="https://drive.google.com/file/d/1QsoEZ2HADS05SzwzVU3ioiexhIxHx3l2/view?usp=sharing" alt="Logo">
       <span>FinSmart</span>
     </div>
     <div class="user-photo">
